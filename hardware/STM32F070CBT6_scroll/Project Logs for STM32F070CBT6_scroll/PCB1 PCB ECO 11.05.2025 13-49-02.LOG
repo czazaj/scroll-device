@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=OSC_IN Pin=MCU1-5
+Removed Pin From Net: NetName=OSC_OUT Pin=MCU1-6
+Change Component Comment : Designator=R6 Old Comment=100R New Comment=1k
+Change Component Comment : Designator=R1 Old Comment=200R New Comment=1k
+Added Component: Designator=J2(SWD_pinout)
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+3V3 Pin=J2-2
+Added Pin To Net: NetName=MCU_SWD_CLK Pin=J2-3
+Added Pin To Net: NetName=MCU_SWD_IO Pin=J2-4
+Added Pin To Net: NetName=OSC_OUT Pin=MCU1-5
+Added Pin To Net: NetName=OSC_IN Pin=MCU1-6
+Added Member To Class: ClassName=Sheet2 Member=Component J2 SWD_pinout
