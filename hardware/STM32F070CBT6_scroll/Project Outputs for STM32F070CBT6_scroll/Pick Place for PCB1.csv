@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\CezaryZajdel(278136)\Desktop\wszystko\projekty dla ludzi\scroll dla Maksa\alt_scroll_wheel_128KB\STM32F070CBT6_scroll\Project Outputs for STM32F070CBT6_scroll\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27.02.25
+Time:       12:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"Y1","OT201616MJBA4SL","TopLayer","OT201616MJBA4SL","91.3125","99.3875","90",""
+"C15","10p","TopLayer","FP-C0402-BB-MFG","91.3250","101.6500","0","Multilayer Ceramic Capacitor, C Series, 10 Pf, - 5%, C0G / Np0, 50 V, 0402 [1005 Metric] Rohs Compliant: Yes"
+"C14","10p","TopLayer","FP-C0402-BB-MFG","91.3000","96.8000","0","Multilayer Ceramic Capacitor, C Series, 10 Pf, - 5%, C0G / Np0, 50 V, 0402 [1005 Metric] Rohs Compliant: Yes"
+"R5","4k7","TopLayer","RESC1608X55X25LL10T15","101.3500","92.2000","0","Chip Resistor, 4.7 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R4","4k7","TopLayer","RESC1608X55X25LL10T15","98.6250","92.1500","180","Chip Resistor, 4.7 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"U3","TPD2EUSB30DRTR","BottomLayer","DRT0003A","112.2000","100.0000","0","ESD Solution for Super-Speed (6 Gbps) USB 3.0 Interface, 2 Channels, -40 to +85 degC, 3-pin SOT (DRT), Green (Rohs & No Sb/Br)"
+"U2","AS5600-ASOM","TopLayer","FP-AS5600-ASOM-IPC_C","100.0000","100.0000","0","SENSOR ANGLE 360DEG SMD"
+"U1","AMS1117-3.3","TopLayer","FP-AMS1117-IPC_C","109.0000","104.3000","0","LDO Voltage Regulators 1A, 3.3V"
+"R6","100R","TopLayer","FP-RC0603-0_55-MFG","95.8000","107.0500","270",""
+"R3","10k","BottomLayer","RESC1609X50X30NL8T20","92.8750","102.0500","270","Chip Resistor, 10 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R2","10k","BottomLayer","RESC1609X50X30NL8T20","99.4000","93.7250","180","Chip Resistor, 10 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R1","200R","TopLayer","FP-CRCW0603-e3-MFG","114.4000","110.6500","270","RES Thick Film, 200?, 1%, 0.1W, 100ppm/°C, 0603"
+"MCU1","STM32F070CBT6","BottomLayer","STM32F070CBT6","100.0000","100.0000","0",""
+"J2","SWD_pinout","TopLayer","SWD_pinout","99.2300","115.0000","180",""
+"J1","USB-C","TopLayer","FP-USB4085-GF-A-MFG","116.1550","100.0000","90","CONN RCPT USB2.0 TYPE C 24POS RA"
+"FB1","120R","TopLayer","FP-BLM21-0_2-t0_85-e0_5-d-IPC_C","110.6750","96.1250","180","Chip Ferrite Bead, 0805, 120? @ 100MHz, 0.03?, 25%, 3A"
+"DS1","RED_LED","TopLayer","VISH-TLMX1100_V","97.3000","107.1250","90","LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
+"D2","82402305","BottomLayer","WE-TVS_SOT23-6L","117.7000","99.8000","180",""
+"D1","GREEN_LED","TopLayer","FP-LTST-C190GKT-MFG","114.4000","106.9500","270","LED GREEN CLEAR CHIP SMD"
+"C13","100n","BottomLayer","FP-C0402-BB-MFG","93.9250","100.1500","180","CAP CER 0.1UF 10V X5R 0402"
+"C12","100n","TopLayer","FP-C0402-BB-MFG","95.4750","102.2500","90","CAP CER 0.1UF 10V X5R 0402"
+"C11","1u","TopLayer","CAPC1608X87X35LL15T15","95.2500","100.3000","90",""
+"C10","100n","BottomLayer","FP-C0402-BB-MFG","94.0750","97.3000","90","CAP CER 0.1UF 10V X5R 0402"
+"C9","100n","BottomLayer","FP-C0402-BB-MFG","94.2000","101.8000","90","CAP CER 0.1UF 10V X5R 0402"
+"C8","100n","BottomLayer","FP-C0402-BB-MFG","106.0000","97.5000","90","CAP CER 0.1UF 10V X5R 0402"
+"C7","100n","BottomLayer","FP-C0402-BB-MFG","102.6000","105.8000","180","CAP CER 0.1UF 10V X5R 0402"
+"C6","100n","BottomLayer","FP-C0402-BB-MFG","97.3000","94.1000","0","CAP CER 0.1UF 10V X5R 0402"
+"C5","4u7","BottomLayer","FP-C2012-125-0_2-IPC_B","94.1750","94.6859","270","Multilayer Ceramic Capacitors 4.7µF ±10% 50V X5R SMD 0805"
+"C4","2u2","TopLayer","CAPC3216X180X50LL20T25","109.7000","92.8000","90","Chip Capacitor, 2.2 uF, +/- 10%, 50 V, -55 to 125 degC, 1206 (3216 Metric), RoHS, Tape and Reel"
+"C3","2u2","TopLayer","CAPC3216X180X50LL20T25","111.8000","92.8000","90","Chip Capacitor, 2.2 uF, +/- 10%, 50 V, -55 to 125 degC, 1206 (3216 Metric), RoHS, Tape and Reel"
+"C2","22u tant","TopLayer","FP-TAJB-MFG","109.0000","109.6000","0","22uF 16V  ±10% 2.3? 1210  SMD Tantalum Capacitor"
+"C1","22u tant","TopLayer","FP-TAJB-MFG","109.0000","99.0000","180","22uF 16V  ±10% 2.3? 1210  SMD Tantalum Capacitor"

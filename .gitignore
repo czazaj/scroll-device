@@ -1,0 +1,8 @@
+# Ignore Altium project history
+hardware/STM32F070CBT6_scroll/History/
+
+# Ignore any top-level folder called unnecessary_or_old
+/unnecessary_or_old/
+
+# Ignore CubeIDE .settings (usually contains user-specific config)
+firmware/CubeIDE/.settings/

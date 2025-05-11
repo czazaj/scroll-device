@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\CezaryZajdel(278136)\Desktop\wszystko\projekty dla ludzi\scroll dla Maksa\alt_scroll_wheel_128KB\STM32F070CBT6_scroll\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb1-slotholes.txt|DrillLayers=gtl,gbl

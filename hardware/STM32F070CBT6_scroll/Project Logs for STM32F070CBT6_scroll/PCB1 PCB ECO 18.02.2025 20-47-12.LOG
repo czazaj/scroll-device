@@ -1,0 +1,40 @@
+Added Component: Designator=U3(DRT0003A)
+Add component (AddParameter): Name = "1394 / Firewire"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Breakdown Voltage(Min)(V)"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPD2EUSB30&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "SamplesURL:http://www.ti.com/product/tpd2eusb30#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ctotal(Typ)(pF)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVSAC2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Differential Capacitance(pF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HDMI"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC 61000-4-2 Air-Gap(+/- kV)"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC 61000-4-2 Air-Gap(Typ)(+/- kV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC 61000-4-2 Contact(+/- kV)"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IEC 61000-4-2 Contact(Typ)(+/- kV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IO Capacitance(Typ)(pF)"; Value = "0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IO Leakage Current(nA)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Flat Lead Plastic Small Outline, 1 x 1 mm (inc leads), 0.35 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DRT0003A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revD, Jun-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPD2EUSB30DRTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial ATA / eSATA"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "ESD Solution"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Full Speed"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB High Speed"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Super Speed"; Value = "TRUE"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Added Pin To Net: NetName=USBD_P Pin=U3-1
+Added Pin To Net: NetName=USBD_N Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Member To Class: ClassName=Sheet2 Member=Component U3 TPD2EUSB30DRTR

@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+3V3 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=MCU1-8
+Added Pin To Net: NetName=+3V3 Pin=MCU1-9
+Added Pin To Net: NetName=GND Pin=MCU1-23
+Added Pin To Net: NetName=+3V3 Pin=MCU1-24
+Added Pin To Net: NetName=GND Pin=MCU1-35
+Added Pin To Net: NetName=+3V3 Pin=MCU1-36
+Added Pin To Net: NetName=GND Pin=MCU1-47
+Added Pin To Net: NetName=+3V3 Pin=MCU1-48
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NRST
+Change Net Name : Old Net Name=NetDS1_1 New Net Name=RED_LED
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=MCU_SWD_CLK
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=MCU_SWD_IO
+Change Net Name : Old Net Name=NetMCU1_5 New Net Name=OSC_IN
+Change Net Name : Old Net Name=NetMCU1_42 New Net Name=SCL
+Change Net Name : Old Net Name=NetMCU1_43 New Net Name=SDA
+Change Net Name : Old Net Name=NetMCU1_44 New Net Name=BOOT0
+Added Pin To Net: NetName=OSC_OUT Pin=MCU1-6
+Added Net: Name=OSC_OUT
